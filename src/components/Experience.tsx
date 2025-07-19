@@ -28,7 +28,7 @@ const Experience = () => {
       icon: <Briefcase className="w-6 h-6" />,
       title: "Frontend Developer",
       company: "Grras Solutions",
-      period: "may2024 - july2024",
+      period: "May2024 - July2024",
       description: "Developing modern web applications using React, TypeScript, and modern CSS frameworks. Collaborating with cross-functional teams to deliver high-quality user experiences.",
       achievements: [
         "Built responsive web applications with 99% uptime",
@@ -56,7 +56,7 @@ const Experience = () => {
       icon: <Award className="w-6 h-6" />,
       title: "Frontend Development Certificate",
       company: "Grras Solutions",
-      period: "2023",
+      period: "May2024-July2024",
       description: "Comprehensive certification program covering modern frontend technologies, best practices, and industry standards for web development.",
       achievements: [
         "Mastered React and TypeScript",
