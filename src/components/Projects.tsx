@@ -28,7 +28,7 @@ const Projects = () => {
       description: "An innovative computer vision project that allows users to control system volume using hand gestures. Built with OpenCV for real-time image processing, MediaPipe for hand tracking, and PyCaw for audio control.",
       image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["OpenCV", "MediaPipe", "PyCaw", "Python", "Computer Vision"],
-      github: "#",
+      github: "https://github.com/Jiya3107",
       demo: "#",
       features: [
         "Real-time hand gesture recognition",
@@ -38,7 +38,7 @@ const Projects = () => {
       ]
     },
     {
-      title: "DevOps Pipeline Automation",
+      title: "CI/CD Pipeline Automation",
       description: "A comprehensive CI/CD pipeline setup using Jenkins, Docker, and Kubernetes for automated testing, building, and deployment of applications with zero-downtime deployment strategies.",
       image: "https://images.pexels.com/photos/7988674/pexels-photo-7988674.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["Jenkins", "Docker", "Kubernetes", "AWS", "Terraform"],
