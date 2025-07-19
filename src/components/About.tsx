@@ -119,7 +119,7 @@ const About = () => {
                 {/* Profile Info */}
                 <div className="space-y-4">
                   <h3 className="text-2xl font-bold text-white">Jiya Chraya</h3>
-                  <p className="text-purple-300 font-medium">AIOps Engineer & DevOps Enthusiast</p>
+                  <p className="text-purple-300 font-medium">DevOps Engineer</p>
                   
                   {/* Status Indicator */}
                   <div className="flex items-center justify-center space-x-2">
@@ -175,7 +175,7 @@ const About = () => {
             {/* Content */}
             <div className="space-y-6">
               <div className="glassmorphism p-6 rounded-2xl">
-                <h3 className="text-2xl font-bold text-white mb-4">Hello World! 👋</h3>
+                <h3 className="text-2xl font-bold text-white mb-4">Hello World!</h3>
                 <p className="text-white/90 leading-relaxed mb-4">
                   I'm Jiya Chraya, a passionate AIOps Engineer and DevOps enthusiast currently in my final year of B.Tech in Computer Science Engineering at Poornima University. I believe in the power of technology to solve complex problems and create meaningful impact.
                 </p>
