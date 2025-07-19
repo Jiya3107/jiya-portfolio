@@ -28,7 +28,7 @@ const Experience = () => {
       icon: <Briefcase className="w-6 h-6" />,
       title: "Frontend Developer",
       company: "Grras Solutions",
-      period: "2023 - Present",
+      period: "may2024 - july2024",
       description: "Developing modern web applications using React, TypeScript, and modern CSS frameworks. Collaborating with cross-functional teams to deliver high-quality user experiences.",
       achievements: [
         "Built responsive web applications with 99% uptime",
@@ -42,7 +42,7 @@ const Experience = () => {
       icon: <GraduationCap className="w-6 h-6" />,
       title: "B.Tech Computer Science Engineering",
       company: "Poornima University",
-      period: "2021 - 2025",
+      period: "2022 - 2026",
       description: "Currently in final year, focusing on advanced topics in AI, machine learning, and software engineering. Maintaining excellent academic record while working on practical projects.",
       achievements: [
         "Specialized in AI and Machine Learning",
