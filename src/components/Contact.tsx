@@ -26,29 +26,29 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      value: "jiya.chraya@example.com",
-      href: "mailto:jiya.chraya@example.com",
+      value: "arorajiya124@gmail.com",
+      href: "mailto:arorajiya124@gmail.com",
       color: "from-purple-500 to-pink-500"
     },
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      value: "+91 98765 43210",
-      href: "tel:+919876543210",
+      value: "+91 8502885726",
+      href: "tel:+918502885726",
       color: "from-blue-500 to-cyan-500"
     },
     {
       icon: <Linkedin className="w-6 h-6" />,
       title: "LinkedIn",
       value: "jiya-chraya",
-      href: "https://linkedin.com/in/jiya-chraya",
+      href: "https://www.linkedin.com/in/jiya-chraya-684188272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       color: "from-blue-600 to-blue-400"
     },
     {
       icon: <Github className="w-6 h-6" />,
       title: "GitHub",
-      value: "jiya-chraya",
-      href: "https://github.com/jiya-chraya",
+      value: "Jiya3107",
+      href: "https://github.com/Jiya3107",
       color: "from-gray-700 to-gray-500"
     }
   ];
