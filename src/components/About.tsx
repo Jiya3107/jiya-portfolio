@@ -177,7 +177,7 @@ const About = () => {
               <div className="glassmorphism p-6 rounded-2xl">
                 <h3 className="text-2xl font-bold text-white mb-4">Hello World!</h3>
                 <p className="text-white/90 leading-relaxed mb-4">
-                  I'm Jiya Chraya, a passionate AIOps Engineer and DevOps enthusiast currently in my final year of B.Tech in Computer Science Engineering at Poornima University. I believe in the power of technology to solve complex problems and create meaningful impact.
+                  I'm Jiya Chraya, a passionate DevOps Engineer currently in my final year of B.Tech in Computer Science Engineering at Poornima University. I believe in the power of technology to solve complex problems and create meaningful impact.
                 </p>
                 <p className="text-white/90 leading-relaxed">
                   My journey began with curiosity about how systems work, which led me to explore the fascinating intersection of AI operations and DevOps. I love building intelligent, automated solutions that make life easier for developers and businesses alike.
