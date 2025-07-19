@@ -4,7 +4,7 @@ import { ChevronDown, Download, Mail } from 'lucide-react';
 const Hero = () => {
   const [displayText, setDisplayText] = useState('');
   const [currentIndex, setCurrentIndex] = useState(0);
-  const fullText = "AIOps Engineer & DevOps Enthusiast";
+  const fullText = "DevOps Engineer";
 
   useEffect(() => {
     if (currentIndex < fullText.length) {
@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="glassmorphism p-8 rounded-2xl max-w-3xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
             <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-              Jiya Chraya
+              Hi, I'm Jiya Chraya
             </span>
           </h1>
           
@@ -47,11 +47,6 @@ const Hero = () => {
               <span className="animate-pulse">|</span>
             </p>
           </div>
-
-          <p className="text-lg text-white/80 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Passionate about leveraging AI and DevOps to build scalable, intelligent systems. 
-            Transforming complex problems into elegant solutions through innovation and automation.
-          </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <button
